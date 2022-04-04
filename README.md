@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bishalgc1996
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning computer programming.
+- 🌱 I’m Software Engineer with love of solving problem and write quality code for cool software projects.
 - 💞️ I’m looking to collaborate on git.
 
 
